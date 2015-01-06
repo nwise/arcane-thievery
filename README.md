@@ -1,29 +1,4 @@
-# ArcaneThievery
+arcane-thievery
+===============
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'arcane_thievery'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install arcane_thievery
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/arcane_thievery/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+ArcaneThievery is a Ruby Gem that provides wrapper classes around both Version 1 and Version 2 of the Guild Wars 2 API
