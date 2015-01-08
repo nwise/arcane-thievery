@@ -1,17 +1,17 @@
 Version 1 - https://api.guildwars.com/v1
 
 * Dynamic Events
-  * event_names
+  * event_names - DONE
   * map_names
   * world_names
   * event_details
 
 * Guilds
-  * guild_details
+  * guild_details - DONE
 
 * Items
-  * items
-  * item_details
+  * items - DONE
+  * item_details - DONE
   * recipes
   * skins
   * skinn_details
