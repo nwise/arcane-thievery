@@ -22,4 +22,5 @@ require 'arcane_thievery/map_names'
 require 'arcane_thievery/world_names'
 require 'arcane_thievery/recipes'
 require 'arcane_thievery/recipe_details'
+require 'arcane_thievery/skins'
 
