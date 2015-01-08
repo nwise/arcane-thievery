@@ -4,7 +4,7 @@ module ArcaneThievery
     URL = ArcaneThievery::Config.base_url + '/v1/world_names.json'
 
     def self.all
-      request = Typhoeus::Request.new(self::URL, params: method: :get)
+      request = Typhoeus::Request.new(self::URL, method: :get)
       response = request.run
 
       return JSON.parse(response.body)
