@@ -2,9 +2,9 @@ Version 1 - https://api.guildwars.com/v1
 
 * Dynamic Events
   * event_names - DONE
-  * map_names
-  * world_names
-  * event_details
+  * map_names - DONE
+  * world_names - DONE
+  * event_details - DEPRECATED
 
 * Guilds
   * guild_details - DONE

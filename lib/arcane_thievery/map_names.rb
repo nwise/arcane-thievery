@@ -13,5 +13,3 @@ module ArcaneThievery
   end
 end
 
-
-

@@ -1,7 +1,7 @@
 module ArcaneThievery
-  class WorldNames
+  class Recipes
 
-    URL = ArcaneThievery::Config.base_url + '/v1/world_names.json'
+    URL = ArcaneThievery::Config.base_url + '/v1/recipes.json'
 
     def self.all
       request = Typhoeus::Request.new(self::URL, method: :get)
