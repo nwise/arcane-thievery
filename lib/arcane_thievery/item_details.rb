@@ -1,5 +1,5 @@
 module ArcaneThievery
-  class EventNames
+  class ItemDetails
 
     URL = ArcaneThievery::Config.base_url + '/v1/item_details.json'
 
