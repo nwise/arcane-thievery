@@ -18,4 +18,6 @@ require "arcane_thievery/guild_details"
 require "arcane_thievery/event_names"
 require "arcane_thievery/items"
 require "arcane_thievery/item_details"
+require "arcane_thievery/map_names"
+require "arcane_thievery/world_names"
 
