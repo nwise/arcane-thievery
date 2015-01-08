@@ -12,9 +12,9 @@ Version 1 - https://api.guildwars.com/v1
 * Items
   * items - DONE
   * item_details - DONE
-  * recipes
-  * skins
-  * skinn_details
+  * recipes - DONE
+  * skins - DONE
+  * skin_details - DONE
 
 * Map Information
   * continents
